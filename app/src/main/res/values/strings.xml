@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+</resources>
